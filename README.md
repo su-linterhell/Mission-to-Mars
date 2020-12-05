@@ -10,5 +10,9 @@ To scrape Nasa's website, to create a webpage with concise information around Ma
 * Creating a flask to pull the information we have scraped into a webpage
 * Creating an index.HTML file to structure how we want our webpage to look 
 
+## Results
+A webpage that you can scrape for the most updated information from Nasa's website
+
+![webpage2](images/webpage2.png)
 
 
