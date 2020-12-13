@@ -1,4 +1,5 @@
 # Mission-to-Mars
+In this project I am web scarping from Nasa's website using Splinter, Web-Driver Manager and Beautiful Soup. Through web scraping, I am storing data from Nasa's website in a MongoDB. Lastly, I created a webpage from the data and inforamtion I gathered from Nasa's website, using Flask & HTMl. 
 
 ## Purpose
 To scrape Nasa's website, to create a webpage with concise information around Mars. This webpage includes the latest news article on Mars, a corresponding image, a table of Mars facts and Mars hemispheres. 
